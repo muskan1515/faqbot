@@ -1,0 +1,74 @@
+Q: How can I create an account?
+A: Click on the "Sign Up" button at the top-right corner of the website and fill in your details.
+
+Q: I forgot my password, what should I do?
+A: Go to the login page and click on "Forgot Password" to reset it using your email.
+
+Q: How do I update my profile information?
+A: You can update your profile by logging in and navigating to "My Account > Profile Settings".
+
+Q: What products do you offer?
+A: We offer a wide range of products including electronics, clothing, and home essentials.
+
+Q: Can I track my order?
+A: Yes, you can track your order from the "My Orders" section after logging in.
+
+Q: How long does delivery take?
+A: Standard delivery takes 3–5 business days, while express delivery takes 1–2 business days.
+
+Q: Do you offer international shipping?
+A: Yes, we ship internationally, but delivery times and charges vary by country.
+
+Q: What payment methods are accepted?
+A: We accept credit/debit cards, UPI, PayPal, and Net Banking.
+
+Q: Is my payment information secure?
+A: Yes, we use SSL encryption and trusted payment gateways to keep your data safe.
+
+Q: How do I cancel my order?
+A: Orders can be canceled within 24 hours by visiting "My Orders" and clicking "Cancel".
+
+Q: Do you offer refunds?
+A: Yes, refunds are processed within 7–10 business days after product return.
+
+Q: Can I return a product?
+A: Yes, products can be returned within 30 days if they are unused and in original packaging.
+
+Q: What should I do if I receive a damaged item?
+A: Please contact our support team immediately with pictures of the damaged item.
+
+Q: How do I contact customer support?
+A: You can reach us via live chat, email (support@example.com), or call +91-9876543210.
+
+Q: Do you have a mobile app?
+A: Yes, our mobile app is available for both iOS and Android on their respective stores.
+
+Q: How can I apply a discount coupon?
+A: On the checkout page, enter your coupon code in the "Promo Code" field and click "Apply".
+
+Q: Are there membership or loyalty programs?
+A: Yes, we offer a loyalty program where you earn points for every purchase.
+
+Q: Can I change my shipping address after placing an order?
+A: Yes, but only before the order has been shipped. Contact support for help.
+
+Q: Do you send order confirmation emails?
+A: Yes, you’ll receive an order confirmation email after placing your order.
+
+Q: Is cash on delivery available?
+A: Yes, Cash on Delivery (COD) is available for selected regions.
+
+Q: How do I unsubscribe from newsletters?
+A: You can unsubscribe by clicking "Unsubscribe" at the bottom of any email from us.
+
+Q: What if I don’t receive my order?
+A: Please contact our support team if your order is delayed beyond the estimated delivery time.
+
+Q: Do you offer bulk purchase discounts?
+A: Yes, for bulk purchases, please reach out to our sales team at sales@example.com.
+
+Q: Can I change the items in my cart after checkout?
+A: Once the order is placed, you cannot modify items. You may cancel and place a new order.
+
+Q: Is there a warranty on products?
+A: Yes, most products come with a manufacturer’s warranty. Details are mentioned on product pages.
